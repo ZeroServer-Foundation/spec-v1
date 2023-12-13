@@ -12,9 +12,10 @@ zeroserver rationale:
 
 this is the state holding/management abstraction for zeroserver
 
-- pubsub
-- block/blob
+- k/v store
+- block/blob/bucket
 - sqlmodel|sqlite ORM synchronization
+- pubsub
 
 ## zs-datamesh
 
